@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "597271255002",
+    "project_id": "shopify-81861",
+    "storage_bucket": "shopify-81861.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597271255002:android:428970ed0040aa865912e3",
+        "android_client_info": {
+          "package_name": "com.example.shopify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597271255002-kta54ip6dn4mq47gvvi7lc5h2diojvps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopify",
+            "certificate_hash": "b783064f3ab8982a68968d76254e26c772aa0940"
+          }
+        },
+        {
+          "client_id": "597271255002-tptf4q6phqm0o24hl4ogigm0i5dsdhsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuLNBq8IUARtFWaRPsrAs9nebjsDknQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597271255002-tptf4q6phqm0o24hl4ogigm0i5dsdhsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
