@@ -54,8 +54,7 @@ fun DetailedProductCard(
             Box(modifier = Modifier.fillMaxWidth()) {
                 Image(
                     painter = painterResource(product.image),
-                    contentDescription = "Product Image"
-                )
+                    contentDescription = "Product Image")
 
                 IconButton(onClick = {}, modifier = Modifier.padding(8.dp).background(color = colorResource(
                     R.color.teal_200), shape = CircleShape
